@@ -50,3 +50,5 @@
 
 ## 📫 Contact
 - Email: lwc980529@naver.com
+- Portfolio : [PDF](https://github.com/Gromit-IT/Gromit-IT/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%9A%B0%EC%B0%AC.pdf)
+
