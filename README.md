@@ -1,4 +1,4 @@
-#  Gromit-IT!
+#  Gromit-IT! 
 · 동료들이 뽑은 “프로젝트 같이 하고 싶은 개발자” 이우찬입니다.
 
 · 한자 인간(人間)이 뜻하듯, 동료들과 어우러져 함께 성장하는 개발자가 되고자 합니다.
@@ -14,6 +14,9 @@
   </br>
   이러한 경험은 문제 해결력과 적응력을 키우는 데 도움이 되었고,
   경진대회에서도 좋은 성과를 낼 수 있었습니다.
+  </br>
+  </br>
+  ## Portfolio : [PDF](https://github.com/Gromit-IT/Gromit-IT/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%9A%B0%EC%B0%AC.pdf)
 
 ## 🛠️ Tech Stack
 
