@@ -45,11 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gromit-IT&layout=compact&theme=radical)
-
----
-
 ## 🚀 Projects
 ### 🏌️‍♀️ [SWINGS-Backend](https://github.com/SWINGS-SOLOFF/SWINGS-BE) / [SWINGS-Frontend](https://github.com/SWINGS-SOLOFF/SWINGS-FE)  
 **골프를 매개로 한 소개팅+SNS+조인 플랫폼**  
