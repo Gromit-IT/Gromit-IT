@@ -64,7 +64,7 @@
 - FastAPI 기반 백엔드 / AI 답장 기능 / UX 설계 참여
 - Python, FastAPI, Uvicorn, SQLite, OpenAI, ...
 
----
+----
 
 ## 📫 Contact
 - Email: lwc980529@naver.com
