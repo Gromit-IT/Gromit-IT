@@ -1,6 +1,6 @@
 #  Gromit-IT!
 # [LEE WOO CHAN]
-· 동료들이 뽑은 “프로젝트 같이 하고 싶은 개발자” 이우찬입니다.
+· 동료들이 뽑은 "프로젝트 같이 하고 싶은 개발자" 이우찬입니다.
 
 · 한자 인간(人間)이 뜻하듯, 동료들과 어우러져 함께 성장하는 개발자가 되고자 합니다.
 
@@ -44,7 +44,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
-----
+---
 
 ## 🚀 Projects
 ### 🏌️‍♀️ [SWINGS-Backend](https://github.com/SWINGS-SOLOFF/SWINGS-BE) / [SWINGS-Frontend](https://github.com/SWINGS-SOLOFF/SWINGS-FE)  
@@ -65,7 +65,7 @@
 - FastAPI 기반 백엔드 / AI 답장 기능 / UX 설계 참여
 - Python, FastAPI, Uvicorn, SQLite, OpenAI, ...
 
-----
+---
 
 ## 📫 Contact
 - Email: lwc980529@naver.com
