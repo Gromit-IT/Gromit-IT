@@ -48,7 +48,7 @@
 
 ## 🚀 Projects
 ### 🏌️‍♀️ [SWINGS-Backend](https://github.com/SWINGS-SOLOFF/SWINGS-BE) / [SWINGS-Frontend](https://github.com/SWINGS-SOLOFF/SWINGS-FE)  
-**골프를 매개로 한 소개팅+SNS+조인 플랫폼**  
+**골프를 매개로 한 소개팅 + SNS + 조인 플랫폼**  
 - TossPayments를 통한 결제 기능, 실시간 채팅 기능, 구글 로그인, 스크린골프 조인 등 다양한 기능 포함  
 - 팀장 역할, 보안(회원가입·JWT 인증·SMTP), UI/UX 흐름 설계 및 전체 일정 관리
 - JAVA, Spring Boot, Spring Security, JWT, JPA, MySQL, React, Vite, PWA, Axios, ...
