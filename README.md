@@ -61,7 +61,7 @@
   
 ### 🌙 [Haruppojak](https://github.com/Gromit-IT/Haruppojak)  
 **AI 기반의 ‘미라클이브닝’ 루틴 관리 서비스**  
-- OpenAI API를 활용한 연령별 Todo 추천, 루틴 챌린지, 캘린더·일기 기능 탑재  
+- OpenAI API를 활용한 연령별 Todo 추천, 루틴 챌린지, 캘린더·일기 기능 구현  
 - FastAPI 기반 백엔드 / AI 답장 기능 / UX 설계 참여
 - Python, FastAPI, Uvicorn, SQLite, OpenAI, ...
 
