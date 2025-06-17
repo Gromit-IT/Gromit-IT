@@ -1,20 +1,22 @@
 #  Gromit-IT [LEEWOOCHAN]
 
-· 동료들이 뽑은 " 프로젝트 같이 하고 싶은 개발자 " 이우찬입니다.
+· 동료들이 뽑은 “프로젝트 같이 하고 싶은 개발자” 이우찬입니다.
 
-· 한자 인간(人間)이 뜻하듯, 동료들과 어우러져 함께 성장하는 개발자가 되고자 합니다.
+· SpringBoot와 React를 활용해 백엔드와 프론트엔드를 모두 구현할 수 있는 풀스택 역량을 갖추고 있습니다.
 
 · 프로젝트에서 팀장을 맡아 개발 일정 조율, 역할 분담, 갈등 관리 등을 통해
-  팀원들과 협업하여 프로젝트를 성공적으로 수행했습니다.
+팀원들과 협업하여 프로젝트를 성공적으로 수행했습니다.
 
 · Spring Security와 JWT 기반의 인증 · 인가 로직을 맡아 구현하고,
-  보안 취약점들을 스스로 학습하며 지속적으로 개선했습니다.
+보안 취약점들을 스스로 학습하며 지속적으로 개선했습니다.
 
 · 도전과 경험을 중시하여 대학교 시절부터
-  웹개발 동아리, 코딩스터디, 창업 동아리, 주식 동아리 등 다양한 활동에 참여했습니다.
-  </br>
-  이러한 경험은 문제 해결력과 적응력을 키우는 데 도움이 되었고,
-  경진대회에서도 좋은 성과를 낼 수 있었습니다.
+웹개발 동아리, 코딩스터디, 창업 동아리, 주식 동아리 등 다양한 활동에 참여했습니다.
+</br>
+이러한 경험은 문제 해결력과 적응력을 키우는 데 도움이 되었고,
+경진대회에서도 좋은 성과를 낼 수 있었습니다.
+
+· 한자 인간(人間)이 뜻하듯, 동료들과 어우러져 함께 성장하는 개발자가 되고자 합니다.
   </br>
   </br>
   ## Portfolio : [PDF](https://github.com/Gromit-IT/Gromit-IT/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%9A%B0%EC%B0%AC.pdf)
@@ -39,7 +41,6 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### DevOps / Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
