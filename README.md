@@ -1,4 +1,4 @@
-#  Gromit-IT [LEEWOOCHAN]
+#  Gromit-IT [Developer]
 
 · 동료들이 뽑은 “프로젝트 같이 하고 싶은 개발자” 이우찬입니다.
 
