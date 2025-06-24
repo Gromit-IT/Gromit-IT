@@ -18,7 +18,6 @@
 
 · 한자 인간(人間)이 뜻하듯, 동료들과 어우러져 함께 성장하는 개발자가 되고자 합니다.
   </br>
-  ## Portfolio : [PDF](https://github.com/Gromit-IT/Gromit-IT/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%9A%B0%EC%B0%AC.pdf)
 
 ## 🛠️ Tech Stack
 
@@ -70,5 +69,4 @@
 
 ## 📫 Contact
 - Email: lwc980529@naver.com
-- Portfolio : [PDF](https://github.com/Gromit-IT/Gromit-IT/blob/main/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4_%EC%9D%B4%EC%9A%B0%EC%B0%AC.pdf)
 
