@@ -51,12 +51,12 @@
 **골프를 매개로 한 소개팅 + SNS + 조인 플랫폼**  
 - TossPayments를 통한 결제 기능, 실시간 채팅 기능, 구글 로그인, 스크린골프 조인 등 다양한 기능 포함  
 - 팀장 역할, 보안(회원가입·JWT 인증·SMTP), UI/UX 흐름 설계 및 전체 일정 관리
-- JAVA, Spring Boot, Spring Security, JWT, JPA, MySQL, React, Vite, PWA, Axios, . . .
+- JAVA, Spring Boot, Spring Security, JWT, JPA, MySQL, React, Vite, PWA, Axios, ...
 
 
 ### 🛍️ [ProjectGWD](https://github.com/Gromit-IT/ProjectGWD)  
 **의류 쇼핑몰 웹 서비스 미니 프로젝트**  
-- 회원가입/로그인, 상품 조회 및 장바구니/주문 기능 구현
+- 회원가입/로그인, 상품 조회 및 장바구니 / 주문 기능 구현
 - JAVA, Spring Boot, Spring Security, MySQL, MyBatis, ...
   
 ### 🌙 [Haruppojak](https://github.com/Gromit-IT/Haruppojak)  
