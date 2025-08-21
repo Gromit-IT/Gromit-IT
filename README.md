@@ -28,5 +28,5 @@
 
 
 ## 📫 Contact
-- Email: lwc980529@naver.com
+- Email: lwc980529@gmail.com
 
